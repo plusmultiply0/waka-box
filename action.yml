@@ -1,5 +1,4 @@
-- name: waka-box
-  uses: matchai/waka-box@v4.0.3
+name: "waka-box"
 description: "Update a pinned gist to contain WakaTime stats"
 branding:
   icon: "clipboard"
